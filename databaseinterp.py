@@ -1,4 +1,4 @@
-mport sys
+import sys
 
 class DatabaseInterpreter:
     def __init__(self,prog):
