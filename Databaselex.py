@@ -1,4 +1,4 @@
-rom ply import *
+from ply import *
 
 keywords = (
     'SET','GET','UNSET','END','NUMEQUALTO','BEGIN','ROLLBACK','COMMIT'
